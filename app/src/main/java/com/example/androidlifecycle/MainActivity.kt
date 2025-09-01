@@ -27,7 +27,7 @@ class MainActivity : ComponentActivity() {
         setContentView(R.layout.activity_main)
 
 
-        Log.d(TAG, "MONANG:: Testing Branch onStart Commit3")
+        Log.d(TAG, "MONANG:: Testing Branch onStart Commit")
 
         lifecycleTextView = findViewById(R.id.lifecycleTextView)
         restartButton = findViewById(R.id.restartButton)
